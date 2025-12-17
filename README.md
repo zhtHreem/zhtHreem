@@ -37,6 +37,16 @@ I’m currently exploring machine learning for real-world applications and learn
 ##  Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=zhtHreem&show_icons=true&theme=radical" height="150"/>
+ <img src="https://metrics.lecoq.io/zhtHreem
+?template=classic
+&base.header=0
+&base.activity=1
+&base.community=0
+&base.repositories=0
+&calendar=1
+&calendar.year=2025
+&theme=radical"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhtHreem&layout=compact&theme=radical" height="150"/>
 </div>
 
